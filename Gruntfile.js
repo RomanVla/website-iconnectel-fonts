@@ -18,7 +18,7 @@ module.exports = function (grunt) {
             glyphs: {
                 src: 'src/vectors/*.svg',
                 dest: 'dest/fonts',
-                destCss: 'dest',
+                destCss: 'dest/style',
                 options: {
                     types: 'eot,woff2,woff,ttf,svg',
                     rename: function (name) {
@@ -60,7 +60,7 @@ module.exports = function (grunt) {
             reviewHtml: {
                 src: 'dest/<%= myTemplate.previewFileName %>.html',
                 editor: function(contents, filePath) {
-                    return contents.replace('<!--@@FileHead-->', '<link rel="stylesheet" id="iconnectel-styles-css" href="ic-icons.css" type="text/css" media="all">');
+                    return contents.replace('<!--@@FileHead-->', '<link rel="stylesheet" id="iconnectel-styles-css" href="style/ic-icons.css" type="text/css" media="all">');
                 }
             },
             reviewPHP: {
