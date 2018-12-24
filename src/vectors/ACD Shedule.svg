@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>ACD Shedule</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ACD-Shedule" fill="#0B82C5" fill-rule="nonzero">
+            <path d="M12,17 C9.790861,17 8,18.790861 8,21 L8,84 C8,86.209139 9.790861,88 12,88 L84,88 C86.209139,88 88,86.209139 88,84 L88,21 C88,18.790861 86.209139,17 84,17 L12,17 Z M12,9 L84,9 C90.627417,9 96,14.372583 96,21 L96,84 C96,90.627417 90.627417,96 84,96 L12,96 C5.372583,96 8.8817842e-16,90.627417 0,84 L0,21 C-8.8817842e-16,14.372583 5.372583,9 12,9 Z" id="Rectangle-9"></path>
+            <path d="M24.5,0 C28.0898509,-4.4408921e-16 31,2.91014913 31,6.5 L31,18.5 C31,22.0898509 28.0898509,25 24.5,25 C20.9101491,25 18,22.0898509 18,18.5 L18,6.5 C18,2.91014913 20.9101491,-4.4408921e-16 24.5,0 Z" id="Rectangle-11"></path>
+            <path d="M71.5,0 C75.0898509,-4.4408921e-16 78,2.91014913 78,6.5 L78,18.5 C78,22.0898509 75.0898509,25 71.5,25 C67.9101491,25 65,22.0898509 65,18.5 L65,6.5 C65,2.91014913 67.9101491,-4.4408921e-16 71.5,0 Z" id="Rectangle-11-Copy"></path>
+            <polygon id="Path-26" points="8 39.5 8 32.5 88 32.5 88 39.5"></polygon>
+        </g>
+    </g>
+</svg>

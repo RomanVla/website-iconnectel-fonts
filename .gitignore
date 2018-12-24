@@ -1,0 +1,7 @@
+#excluded directories
+.idea/
+dest/
+node_modules/
+
+#excluded files
+

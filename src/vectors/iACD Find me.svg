@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>iACD Find me</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="7" cy="48" r="7"></circle>
+    </defs>
+    <g id="iACD-Find-me" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-3" stroke="#0B82C5" stroke-width="7" transform="translate(46.000000, 48.000000) scale(1, -1) translate(-46.000000, -48.000000) " cx="46" cy="48" r="10.5"></circle>
+        <g id="Oval-Copy-2">
+            <use fill="#0B82C5" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <circle stroke="#0B82C5" stroke-width="7" cx="7" cy="48" r="3.5"></circle>
+        </g>
+        <path d="M7.5,48 L38.177215,48" id="Path-17" stroke="#0B82C5" stroke-width="7"></path>
+        <path d="M58,48 L89.503968,48" id="Path-17-Copy" stroke="#0B82C5" stroke-width="7"></path>
+        <polyline id="Path-18" stroke="#0B82C5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" points="84 39 92.9728138 47.9728138 84.1079014 56.8377262"></polyline>
+        <g id="Group" transform="translate(52.222666, 21.233073) rotate(-75.000000) translate(-52.222666, -21.233073) translate(34.722666, 12.233073)" stroke="#0B82C5" stroke-width="7">
+            <path d="M0,9 L31.503968,9" id="Path-17-Copy-2"></path>
+            <polyline id="Path-18-Copy" stroke-linecap="round" stroke-linejoin="round" points="26 0 34.9728138 8.9728138 26.1079014 17.8377262"></polyline>
+        </g>
+        <g id="Group-Copy" transform="translate(52.222666, 74.233073) scale(1, -1) rotate(-75.000000) translate(-52.222666, -74.233073) translate(34.722666, 65.233073)" stroke="#0B82C5" stroke-width="7">
+            <path d="M0,9 L31.503968,9" id="Path-17-Copy-2"></path>
+            <polyline id="Path-18-Copy" stroke-linecap="round" stroke-linejoin="round" points="26 0 34.9728138 8.9728138 26.1079014 17.8377262"></polyline>
+        </g>
+    </g>
+</svg>

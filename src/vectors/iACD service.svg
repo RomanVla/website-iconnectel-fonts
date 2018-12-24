@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>iACD service</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iACD-service" fill="#0B82C5" fill-rule="nonzero">
+            <g transform="translate(3.000000, 3.000000)">
+                <path d="M45,4 C22.3563253,4 4,22.3563253 4,45 C4,67.6436747 22.3563253,86 45,86 C67.6436747,86 86,67.6436747 86,45 C86,22.3563253 67.6436747,4 45,4 Z M45,-3 C71.509668,-3 93,18.490332 93,45 C93,71.509668 71.509668,93 45,93 C18.490332,93 -3,71.509668 -3,45 C-3,18.490332 18.490332,-3 45,-3 Z" id="Combined-Shape"></path>
+                <path d="M42.1458106,10.4041369 C43.212146,7.21140514 47.7302105,7.21732179 48.7881802,10.4128354 L60.0443496,44.4112028 C60.2810104,45.1260181 60.2808371,45.8980975 60.0438552,46.6128065 L48.8147435,80.4784632 C47.756947,83.6686508 43.2480474,83.6790291 42.1755762,80.4937448 L30.7833491,46.6583527 C30.54032,45.9365461 30.5393693,45.1551647 30.7806412,44.4327689 L42.1458106,10.4041369 Z M45.4510236,22.6048176 L37.7919295,45.5370314 L45.4671863,68.3328659 L53.0346071,45.5104305 L45.4510236,22.6048176 Z" id="Rectangle-2" transform="translate(45.411049, 45.444903) rotate(45.000000) translate(-45.411049, -45.444903) "></path>
+                <rect id="Rectangle" transform="translate(45.071068, 45.071068) rotate(45.000000) translate(-45.071068, -45.071068) " x="40.071068" y="40.0710677" width="10" height="10" rx="5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

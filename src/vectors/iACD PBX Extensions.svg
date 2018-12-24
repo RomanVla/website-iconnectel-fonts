@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>iACD PBX Extensions new</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iACD-PBX-Extensions-new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(4.000000, 30.000000)" stroke="#0B82C5" stroke-width="7">
+            <rect id="Combined-Shape-Copy-6" x="7.875" y="3.5" width="12.25" height="12.3809524" rx="6.125"></rect>
+            <path d="M28,37 C28,30.8333333 22.0129502,24.6666667 13.9605491,24.6666667 C5.90814804,24.6666667 0,30.0732538 0,36.7454347" id="Oval-5" stroke-linecap="round"></path>
+        </g>
+        <g id="Group-Copy" transform="translate(65.000000, 55.000000)" stroke="#0B82C5" stroke-width="7">
+            <rect id="Combined-Shape-Copy-6" x="7.875" y="3.5" width="12.25" height="12.3809524" rx="6.125"></rect>
+            <path d="M28,37 C28,30.8333333 22.0129502,24.6666667 13.9605491,24.6666667 C5.90814804,24.6666667 0,30.0732538 0,36.7454347" id="Oval-5" stroke-linecap="round"></path>
+        </g>
+        <path d="M42,67 L61.6928711,73.3530273" id="Line" stroke="#0B82C5" stroke-width="7" stroke-linecap="round"></path>
+        <path d="M35,38 L54.5,28.5" id="Line-Copy" stroke="#0B82C5" stroke-width="7" stroke-linecap="round"></path>
+        <g id="Group-Copy-2" transform="translate(65.000000, 0.000000)" stroke="#0B82C5" stroke-width="6">
+            <rect id="Combined-Shape-Copy-6" x="6.75" y="3" width="10.5" height="10.7619048" rx="5.25"></rect>
+            <path d="M24,32 C24,26.6666667 18.868243,21.3333333 11.966185,21.3333333 C5.06412689,21.3333333 0,26.0093006 0,31.7798355" id="Oval-5" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>ACD Historical</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ACD-Historical" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(44.000000, 45.636207) rotate(-30.000000) translate(-44.000000, -45.636207) translate(-2.000000, -4.863793)" stroke="#0B82C5" stroke-width="7">
+            <g id="Group-2" transform="translate(46.000000, 50.500000) rotate(-3.000000) translate(-46.000000, -50.500000) translate(3.000000, 3.000000)">
+                <path d="M43,95 C66.7482442,95 86,75.7482442 86,52 C86,28.2517558 66.7482442,9 43,9 C19.2517558,9 0,28.2517558 0,52" id="Oval-10" transform="translate(43.000000, 52.000000) rotate(-270.000000) translate(-43.000000, -52.000000) "></path>
+                <polyline id="Path-18-Copy-2" transform="translate(42.633975, 9.254914) rotate(-180.000000) translate(-42.633975, -9.254914) " points="37.6339746 0.366025404 47.6339746 9.30868366 37.7542283 18.1438032"></polyline>
+            </g>
+        </g>
+        <polyline id="Path-19" stroke="#0B82C5" stroke-width="7" points="45.0109076 29 45.0109076 54 57.8344752 54 67.0109076 54"></polyline>
+    </g>
+</svg>

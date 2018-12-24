@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>quality</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="quality" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(9.000000, 1.000000)" fill="#0B82C5" fill-rule="nonzero">
+            <rect id="Rectangle-7" x="66" y="0" width="12" height="94" rx="3"></rect>
+            <rect id="Rectangle-7-Copy" x="51" y="23" width="12" height="71" rx="3"></rect>
+            <rect id="Rectangle-7-Copy-2" x="36" y="44" width="12" height="50" rx="3"></rect>
+            <rect id="Rectangle-7-Copy-3" x="21" y="63" width="12" height="31" rx="3"></rect>
+            <path d="M21,51.5 C19.0670034,51.5 17.5,49.9329966 17.5,48 C17.5,46.0670034 19.0670034,44.5 21,44.5 C30.1126984,44.5 37.5,37.1126984 37.5,28 C37.5,26.0670034 39.0670034,24.5 41,24.5 C42.9329966,24.5 44.5,26.0670034 44.5,28 C44.5,40.9786916 33.9786916,51.5 21,51.5 Z" id="Oval-Copy-5" transform="translate(31.000000, 38.000000) scale(-1, -1) translate(-31.000000, -38.000000) "></path>
+            <path d="M10,51.5 C8.06700338,51.5 6.5,49.9329966 6.5,48 C6.5,46.0670034 8.06700338,44.5 10,44.5 C25.1878306,44.5 37.5,32.1878306 37.5,17 C37.5,15.0670034 39.0670034,13.5 41,13.5 C42.9329966,13.5 44.5,15.0670034 44.5,17 C44.5,36.0538238 29.0538238,51.5 10,51.5 Z" id="Oval-Copy-6" transform="translate(25.500000, 32.500000) scale(-1, -1) translate(-25.500000, -32.500000) "></path>
+            <path d="M0,51.5 C-1.93299662,51.5 -3.5,49.9329966 -3.5,48 C-3.5,46.0670034 -1.93299662,44.5 0,44.5 C20.7106781,44.5 37.5,27.7106781 37.5,7 C37.5,5.06700338 39.0670034,3.5 41,3.5 C42.9329966,3.5 44.5,5.06700338 44.5,7 C44.5,31.5766713 24.5766713,51.5 0,51.5 Z" id="Oval-Copy-7" transform="translate(20.500000, 27.500000) scale(-1, -1) translate(-20.500000, -27.500000) "></path>
+        </g>
+    </g>
+</svg>
