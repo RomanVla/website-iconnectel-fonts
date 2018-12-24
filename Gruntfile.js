@@ -7,8 +7,9 @@ module.exports = function (grunt) {
 
     // Project configuration.
     grunt.initConfig({
-        template: {
-            previewFileName: 'ic-icons-preview'
+        myTemplate: {
+            previewFileName: 'ic-icons-preview',
+            fontName: 'ic-icon'
         },
 
         pkg: grunt.file.readJSON('package.json'),
@@ -24,15 +25,15 @@ module.exports = function (grunt) {
                         return path.basename(name).toLowerCase();
                     },
                     stylesheets: ['scss', 'css'],
-                    font: 'ic-icons',
-                    fontFilename: 'ic-icons-{hash}',
+                    font: '<%= myTemplate.fontName %>s',
+                    fontFilename: '<%= myTemplate.fontName %>s-{hash}',
                     hashes: false,
                     htmlDemo: true,
                     destHtml: 'dest',
-                    htmlDemoFilename: '<%= template.previewFileName %>',
-                    htmlDemoTemplate: 'src/<%= template.previewFileName %>-template.html',
+                    htmlDemoFilename: '<%= myTemplate.previewFileName %>',
+                    htmlDemoTemplate: 'src/<%= myTemplate.previewFileName %>-template.html',
                     templateOptions: {
-                        baseClass: 'ic-icon',
+                        baseClass: '<%= myTemplate.fontName %>',
                         classPrefix: 'ic-'
                     },
                 }
@@ -47,7 +48,7 @@ module.exports = function (grunt) {
                     expand: true,
                     cwd: 'dest/',
                     dest: 'dest/',
-                    src: 'ic-icons-preview.html',
+                    src: '<%= myTemplate.previewFileName %>.html',
                     rename: function (dest, src) {
                         return dest + src.replace('.html', '.php');
                     }
@@ -57,13 +58,13 @@ module.exports = function (grunt) {
 
         rewrite: {
             reviewHtml: {
-                src: 'dest/<%= template.previewFileName %>.html',
+                src: 'dest/<%= myTemplate.previewFileName %>.html',
                 editor: function(contents, filePath) {
                     return contents.replace('<!--@@FileHead-->', '<link rel="stylesheet" id="iconnectel-styles-css" href="ic-icons.css" type="text/css" media="all">');
                 }
             },
             reviewPHP: {
-                src: 'dest/<%= template.previewFileName %>.php',
+                src: 'dest/<%= myTemplate.previewFileName %>.php',
                 editor: function(contents, filePath) {
                     return contents.replace('<!--@@FileHead-->', '<?php\n' +
                         '/*\n' +
